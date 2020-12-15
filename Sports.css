@@ -1,0 +1,84 @@
+body {
+    font-family: 'bebas neue';
+}
+
+.btn-main {
+    background-color: red;
+    padding: 20px;
+    font-size: 40px;
+}
+
+#navbar {
+    font-size: 70px;
+    color: black;
+    top: 0;
+    height: 75px;
+    width: 100%;
+    background-color: red;
+    position: fixed;
+}
+
+td.nav {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#header {
+    height: 1200px;
+    width: 100%;
+    float: left;
+    background-image: url(chalkavi.jpg);
+}
+
+#container {
+    text-align: center;;
+    color: white;
+}
+
+
+#header h1 {
+    font-size: 100px;
+}
+
+#container {
+    position: relative;
+    top: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+#descrip {
+    position: relative;
+    top: 200px;
+    color: white;
+}
+
+#header h2 {
+    font-size: 50px;
+    color: red;
+    text-align: center;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+.question {
+    color: white;
+    font-size: 30px;
+}
+
+.answer {
+    color: red;
+    font-size: 20px;
+}
+
+#main {
+    position: relative;
+    top: 200px;
+    text-align: center;
+}

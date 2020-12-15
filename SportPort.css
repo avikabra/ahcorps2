@@ -1,0 +1,68 @@
+body {
+    font-family: 'bebas neue';
+}
+
+.btn-main {
+    background-color: red;
+    padding: 20px;
+    font-size: 40px;
+}
+
+#navbar {
+    font-size: 70px;
+    color: black;
+    top: 0;
+    height: 75px;
+    width: 100%;
+    background-color: red;
+    position: fixed;
+}
+
+td.nav {
+    padding-left: 50px;
+    padding-right: 50px;
+}
+
+#header {
+    height: 600px;
+    width: 100%;
+    float: left;
+    background-image: url(chalkavi.jpg);
+}
+
+#container {
+    text-align: center;;
+    color: white;
+}
+
+
+#header h1 {
+    font-size: 100px;
+}
+
+#container {
+    position: relative;
+    top: 100px;
+}
+
+a {
+    text-decoration: none;
+    color: white;
+}
+
+table {
+    width: 100%;
+    text-align: center;
+}
+
+#Portfolio h1 {
+    font-family: "Westmeath";
+    color: black;
+    font-size: 60px;
+    text-align: center;
+}
+
+#Portfolio {
+    position: relative;
+    top: 100px;
+}
